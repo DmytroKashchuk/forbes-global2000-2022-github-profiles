@@ -5,7 +5,7 @@ Official GitHub profiles of Forbes Global 2000 companies (2022)
 This repository hosts a single CSV file that maps every company in the 2022 Forbes Global 2000 ranking to its official GitHub profile.
 
 ## 📁 File
-- `forbes_global2000_2022_gh_profiles.csv`  
+- `global2000-2022_github_profiles.csv`  
   - **Company**: Exact name as listed by Forbes.  
   - **GitHubProfile**: URL or handle of the company’s GitHub organization/user.
  
